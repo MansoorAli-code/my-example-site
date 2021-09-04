@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+}
+img{
+    max-width: 50%;
+}
+
+.list{
+    border: 1px solid white;
+}
+
+.lists{
+    border: 1px solid white;
+}
+
